@@ -9,7 +9,11 @@ www.cartaodepontos.com.br
 ### O Cartao de Pontos tem um painel de empresa , onde a empresa pode consultar os clientes , Pontuar os clientes, converter pontos em premios alem de poder configurar os cartoes de pontos de acordo com a necessidade e tambem painel cliente onde e possivel visualisar a pontuaçao em cada empresa , cartoes completos e tokens disponiveis para trocas em premios.
 
 ### Dados de acesso:
-#### Painel empresa
-User: Admin
-Password:Admin
+#### Painel Empresa
+#### User: Admin
+#### Password:Admin
+
+#### Painel Cliente
+#### User: Cliente
+#### Password:Cliente
  
