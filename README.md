@@ -10,10 +10,10 @@ www.cartaodepontos.com.br
 
 ### Dados de acesso:
 #### Painel Empresa
-#### User: Admin
-#### Password:Admin
+User: Admin
+Password:Admin
 
 #### Painel Cliente
-#### User: Cliente
-#### Password:Cliente
+User: Cliente
+Password:Cliente
  
